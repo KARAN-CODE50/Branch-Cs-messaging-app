@@ -1,10 +1,10 @@
-ABOUT :
+## ABOUT 
 
 In this project, i will address the challenge of handling a high volume of customer inquiries
 while flagging the most urgent issues. The main objective is to build a simple messaging web
 application for Branch that can scale with us as we grow our customer base.
 
-Build a messaging web application that can be used to respond to incoming questions
+1. Build a messaging web application that can be used to respond to incoming questions
 sent by our customers. The system should allow a team of agents to respond to
 incoming messages from (potentially many) customers in a streamlined fashion. Design
 the system so that multiple agents can log in at the same time and respond to incoming
